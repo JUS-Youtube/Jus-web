@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "JUS chrome mockup",
+    "name": "JUS free chrome mockup",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -50,7 +50,18 @@
     ],
     "uniqCompNum": 14,
     "versionPublish": "5.3.5",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/thumbnail-128x128.png",
+    "mbrsiteDomain": "rieiplo6pr",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-language": false,
+    "witsec-mailform": false,
+    "witsec-white-label": false
   },
   "pages": {
     "index.html": {
